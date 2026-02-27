@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+83
+'Señor usuario, por favor digite dos numeros diferentes, uno mayor y el otro menor'
+5
+1
+9
+num1,num2
+7
+1
+1
+9
+num1>num2
+4
+1
+20
+'El mayor es ', num1
+13
+7
+0
+1
+9
+num2>num1
+4
+1
+13
+'Son iguales'
+13
+4
+1
+20
+'El mayor es ', num2
+13
+13
+4
+1
+16
+'Muchas gracias'
+1
